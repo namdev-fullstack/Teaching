@@ -9,7 +9,7 @@ import 'aos/dist/aos.css'
 
 // Memoized Components
 const StatusBadge = memo(() => (
-  <div className="inline-block animate-float lg:mx-0 mt-[128px] lg:mt-8" data-aos="zoom-in" data-aos-delay="400">
+  <div className="inline-block animate-float lg:mx-0 pt-[128px] lg:mt-8" data-aos="zoom-in" data-aos-delay="400">
     <div className="relative group">
       <div className="absolute -inset-0.5 bg-gradient-to-r from-[#6366f1] to-[#a855f7] rounded-full blur opacity-30 group-hover:opacity-50 transition duration-1000"></div>
       <div className="relative px-3 sm:px-4 py-2 rounded-full bg-white/80 backdrop-blur-xl border border-blue-200/50 shadow-lg">
@@ -86,7 +86,7 @@ const SocialLink = memo(({ icon: Icon, link }) => (
 const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
-const WORDS = ["Python Programming", "Web Development", "Cấp 2 & Cấp 3 & Sinh viên"];
+const WORDS = ["Lập Trình Python", "Lập Trình Website", "Cấp 2 & Cấp 3 & Sinh viên"];
 const EXPERIENCE_DATA = [
   { icon: Users, title: "Lớp đã dạy", value: "100+", description: "Lớp học" },
   { icon: Award, title: "Kinh nghiệm", value: "2+ năm", description: "Tại MindX" },

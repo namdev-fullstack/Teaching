@@ -110,7 +110,7 @@ const ContactPage = () => {
                     data-aos-delay="300"
                   >
                     <div className="absolute -inset-1 bg-gradient-to-r from-[#6366f1] to-[#a855f7] rounded-2xl blur opacity-30 group-hover:opacity-50 transition duration-500"></div>
-                    <div className="relative bg-gradient-to-r from-[#6366f1] to-[#a855f7] text-white py-4 px-8 rounded-2xl font-semibold text-lg transition-all duration-300 hover:scale-105 flex items-center justify-center gap-3">
+                    <div className="relative bg-gradient-to-r from-[#6366f1] to-[#a855f7] text-white py-3 px-4 rounded-2xl font-semibold text-lg transition-all duration-300 hover:scale-105 flex items-center justify-center gap-3">
                       <span>0358 326 643</span>
                       <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform duration-300" />
                     </div>
