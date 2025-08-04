@@ -88,7 +88,7 @@ const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
 const WORDS = ["Lập Trình Python", "Lập Trình Website", "Cấp 2 & Cấp 3 & Sinh viên"];
 const EXPERIENCE_DATA = [
-  { icon: Users, title: "Lớp đã dạy", value: "100+", description: "Lớp học" },
+  { icon: Users, title: "Lớp đã dạy", value: "70+", description: "Lớp học" },
   { icon: Award, title: "Kinh nghiệm", value: "2+ năm", description: "Tại MindX" },
   { icon: BookOpen, title: "Giáo trình", value: "Có sẵn", description: "Chi tiết" }
 ];

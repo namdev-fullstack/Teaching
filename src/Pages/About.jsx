@@ -73,7 +73,7 @@ const ProfileImage = memo(() => (
 
               {/* Name */}
               <h3 className="text-xl font-bold mb-2 bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent">
-                Nguyễn Khắc Tiến
+                Nguyễn Văn Nam
               </h3>
 
               {/* Title */}
@@ -228,7 +228,7 @@ const AboutPage = () => {
       {
         icon: Users,
         color: "from-[#6366f1] to-[#a855f7]",
-        value: "100+",
+        value: "70+",
         label: "Lớp Đã Dạy",
         description: "Học sinh cấp 2, cấp 3",
         animation: "fade-right",
@@ -276,7 +276,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Nguyễn Khắc Tiến
+                Nguyễn Văn Nam
               </span>
             </h2>
 
